@@ -1,7 +1,7 @@
 import { useState } from "react"
 
 export const QRCode = () => {
-    const [img, setImg] = useState("/images/sample.png")
+    const [img, setImg] = useState("public/images/sample.png")
     const [loading, setLoading] = useState(false)
     const [qrData, setQRData] = useState("")
     const [qrSize, setQRSize] = useState("")
