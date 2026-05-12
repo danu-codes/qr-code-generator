@@ -15,6 +15,9 @@ You can generate QR codes from any text or URL and download them instantly.
 
 ---
 
+## 🌐 Live Demo
+👉 Try it here: https://danu-codes.github.io/qr-code-generator/
+
 ## 🛠️ Tech Stack
 
 - React (Vite)
